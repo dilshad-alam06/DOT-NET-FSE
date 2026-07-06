@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+# Visual Studio .NET ignore
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+packages/
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.nupkg
+*.nuspec
+*.csproj.user
+*~
+# Restore packages folder
+*/packages/
+=======
+bin/
+obj/
+.vs/
+*.metadata.json
+.system_generated/
+>>>>>>> e6bc1ff623a46620c0d5c6461ac8d2190c989c51

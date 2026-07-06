@@ -1,0 +1,3 @@
+Both logger references are the same instance: True
+[Logger] First log message from logger1.
+[Logger] Second log message from logger2.
